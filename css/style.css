@@ -130,3 +130,11 @@ html {
     font-weight: 400;
 }
 
+.item button {
+    background-color: red;
+    border: none;
+    color: #FFFFFF;
+    padding: 0.5rem 0.8rem;
+    font-weight: bold;
+    cursor: pointer;
+}
